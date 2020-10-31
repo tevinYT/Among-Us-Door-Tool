@@ -1,2 +1,2 @@
 # Among-Us-Door-Tool
-A quick solution to those pesky doors on Polus
+**This was not made with the intent of being a cheat or anything like that, I did it because I was lazy.**
