@@ -9,3 +9,7 @@ If there's interest I'll look into optimizing it but for now it's perfectly fast
 
 Here's a video on it:
 https://www.youtube.com/watch?v=VIq5ENdIrIQ
+
+UPDATE 11/31 11:20PM: I made a installer that will install all resources necessary to run the tool, alongside an exe for the script as well!
+
+INSTALLER LINK: https://www.mediafire.com/file/3bm0xzzgqdqu9wh/TDT-v1.exe/
